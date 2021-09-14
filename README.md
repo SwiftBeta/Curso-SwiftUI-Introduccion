@@ -1,4 +1,4 @@
-# ![https://www.swiftbeta.com](https://github.com/swiftbeta/Code/raw/main/resources/logo.png) 👋 Hola, mi nombre es SwiftBeta
+# ![https://www.swiftbeta.com](https://github.com/swiftbeta/Curso-SwiftUI-Introduccion/raw/main/resources/logo.png) 👋 Hola, mi nombre es SwiftBeta
 ### 👨🏻‍💻 iOS Tech Lead de día - Creador de contenido iOS de noche
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2MAP8k0bzwq_OAA_zQw27A?style=social)](https://youtube.com/swiftbeta?sub_confirmation=1)
@@ -8,7 +8,7 @@
 # 40 videos GRATIS - Curso de SWIFTUI Introducción en Español.
 ## Selecciona el video que quieras y se abrirá en Youtube
 
-# ![https://www.swiftbeta.com](https://github.com/swiftbeta/Code/raw/main/resources/all-videos.png)
+# ![https://www.swiftbeta.com](https://github.com/swiftbeta/Curso-SwiftUI-Introduccion/raw/main/resources/all-videos.png)
 # 📱 CURSO de PROGRAMACIÓN SwiftUI y Xcode (Introducción a SwiftUI | Aprende SwiftUI desde cero
 
 ---
