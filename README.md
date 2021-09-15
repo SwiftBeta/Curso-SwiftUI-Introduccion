@@ -6,10 +6,11 @@
 ![GitHub Followers](https://img.shields.io/github/followers/swiftbeta?style=social)
 
 # 40 videos GRATIS - Curso de SWIFTUI Introducción en Español.
-## Selecciona el video que quieras y se abrirá en Youtube
 
 # ![https://www.swiftbeta.com](https://github.com/swiftbeta/Curso-SwiftUI-Introduccion/raw/main/resources/all-videos.png)
-# 📱 CURSO de PROGRAMACIÓN SwiftUI y Xcode (Introducción a SwiftUI | Aprende SwiftUI desde cero
+# 📱 CURSO de PROGRAMACIÓN SwiftUI y Xcode (Introducción a SwiftUI | Aprende SwiftUI desde cero)
+## Selecciona el video que quieras y se abrirá en Youtube
+
 
 ---
 
