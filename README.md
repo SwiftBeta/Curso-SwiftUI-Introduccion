@@ -2,7 +2,6 @@
 ### 👨🏻‍💻 iOS Tech Lead de día - Creador de contenido iOS de noche
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2MAP8k0bzwq_OAA_zQw27A?style=social)](https://youtube.com/swiftbeta?sub_confirmation=1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/swiftbeta?style=social)](https://twitter.com/swiftbeta)
 ![GitHub Followers](https://img.shields.io/github/followers/swiftbeta?style=social)
 
 # 40 videos GRATIS - Curso de SWIFTUI Introducción en Español.
