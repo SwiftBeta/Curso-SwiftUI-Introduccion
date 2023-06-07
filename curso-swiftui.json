@@ -1,4 +1,5 @@
 [{
+    "id": 1,
     "title": "¿Cómo crear tu primera iOS app? (SwiftUI y Xcode)",
     "youtube_url": "https://youtu.be/H0kihMlApn4",
     "post_url": "https://www.swiftbeta.com/primeros-pasos-en-swiftui/",
@@ -6,6 +7,7 @@
     "description": "¿Quieres APRENDER a programar en SWIFTUI y no sabes por dónde empezar? En SwiftBeta te vamos a guiar paso a paso hasta que puedas crear tu primera APLICACIÓN iOS en SWIFT con las últimas tecnologías como SWIFTUI."
   },
   {
+    "id": 2,
     "title": "SwiftUI: Stacks: VStack, HStack y ZStack",
     "youtube_url": "https://youtu.be/R5wIR9mRrkI",
     "post_url": "https://www.swiftbeta.com/stacks-en-swiftui/",
@@ -13,6 +15,7 @@
     "description": "Aprende a estructurar tus vistas en SwiftUI, para ello aprenderás a crear vistas con Xcode y ver el resultado automáticamente en el canvas. Partimos de una vista y vamos creando poco a poco todas sus partes."
   },
   {
+    "id": 3,
     "title": "SwiftUI: Image",
     "youtube_url": "https://youtu.be/iPoae7PE7Nc",
     "post_url": "https://www.swiftbeta.com/swiftui-images/",
@@ -20,6 +23,7 @@
     "description": "Aprende a usar imágenes en SwiftUI, en el video nos descargamos una imagen en formato PDF y la agregamos a nuestro proyecto en Xcode para poder acceder a ella desde el código."
   },
   {
+    "id": 4,
     "title": "SwiftUI: Iconos y SF Symbols",
     "youtube_url": "https://youtu.be/YKRqUq6_8RQ",
     "post_url": "https://www.swiftbeta.com/swiftui-sf-symbols/",
@@ -27,6 +31,7 @@
     "description": "Aprende a usar los iconos en SwiftUI e integrarlos en tus app. También damos un repaso a SF Symbols, una aplicación que nos ofrece Apple para encontrar los iconos ideales para nuestra app."
   },
   {
+    "id": 5,
     "title": "SwiftUI: Property Wrapper @State",
     "youtube_url": "https://youtu.be/geFS2IIfvCI",
     "post_url": "https://www.swiftbeta.com/state-en-swiftui/",
@@ -34,6 +39,7 @@
     "description": "Aprende a usar los iconos en SwiftUI e integrarlos en tus app. También damos un repaso a SF Symbols, una aplicación que nos ofrece Apple para encontrar los iconos ideales para nuestra app."
   },
   {
+    "id": 6,
     "title": "SwiftUI: Label (Icono y Título)",
     "youtube_url": "https://youtu.be/99BLdSspVxM",
     "post_url": "https://www.swiftbeta.com/label-en-swiftui/",
@@ -41,6 +47,7 @@
     "description": "Aprende a usar Label en SwiftUI, esta vista nos permite tener un icono y un texto. Antes de SwiftUI 2.0 esto lo teníamos que hacer de forma manual. También puedes customizar para que en ciertas ocaciones solo aparezca texto o solo el icono."
   },
   {
+    "id": 7,
     "title": "SwiftUI: Text (y sus modificadores)",
     "youtube_url": "https://youtu.be/tUZbPZG3o3U",
     "post_url": "https://www.swiftbeta.com/text-en-swiftui/",
@@ -48,6 +55,7 @@
     "description": "Aprende a usar Text en SwiftUI, esta vista nos permite mostrar texto y hay una gran variedad de modificadores: bold, font, foregroundColor, underline, etc"
   },
   {
+    "id": 8,
     "title": "SwiftUI: Button (y sus modificadores)",
     "youtube_url": "https://youtu.be/S2K8FGn5T4U",
     "post_url": "https://www.swiftbeta.com/button-en-swiftui/",
@@ -55,6 +63,7 @@
     "description": "Aprende a usar Button en SwiftUI, esta vista nos permite que cuando el usuario toque la vista, podamos ejecutar ciertas acciones. Como realizar una petición HTTP, realizar una validación, printar por consola, etc"
   },
   {
+    "id": 9,
     "title": "SwiftUI: TextField y SecureField",
     "youtube_url": "https://youtu.be/dIP2gC_nAok",
     "post_url": "https://www.swiftbeta.com/textfield-en-swiftui/",
@@ -62,6 +71,7 @@
     "description": "Aprende a usar TextField y SecureField en SwiftUI. Esta vista es un campo para que el user pueda meter datos y nosotros recogerlos para realizar alguna acción. El campo SecureField es lo mismo pero no podemos ver la información que añadimos."
   },
   {
+    "id": 10,
     "title": "SwiftUI: TextEditor",
     "youtube_url": "https://youtu.be/_UuhcApLlDg",
     "post_url": "https://www.swiftbeta.com/textedit-en-swiftui/",
@@ -69,6 +79,7 @@
     "description": "Aprende a usar TextEditor en SwiftUI. Esta vista permite que el user pueda meter más texto que en un TextField. Es como un TextField pero con Scroll."
   },
   {
+    "id": 11,
     "title": "SwiftUI: DatePicker",
     "youtube_url": "https://youtu.be/Hlh1rKjxIS4",
     "post_url": "https://www.swiftbeta.com/datepicker-en-swiftui/",
@@ -76,6 +87,7 @@
     "description": "Aprende a usar DatePicker en SwiftUI. Esta vista permite que el user pueda introducir una fecha por ejemplo desde un Form."
   },
   {
+    "id": 12,
     "title": "SwiftUI: ColorPicker",
     "youtube_url": "https://youtu.be/F3IzXHXKWjU",
     "post_url": "https://www.swiftbeta.com/colorpicker-en-swiftui/",
@@ -83,6 +95,7 @@
     "description": "Aprende a usar ColorPicker en SwiftUI. Esta vista permite que el user pueda escoger un color por ejemplo desde un Form."
   },
   {
+    "id": 13,
     "title": "SwiftUI: ProgressView",
     "youtube_url": "https://youtu.be/cKGPVNgKB0U",
     "post_url": "https://www.swiftbeta.com/progressview-en-swiftui/",
@@ -90,6 +103,7 @@
     "description": "Aprende a usar ProgressView en SwiftUI. Esta vista permite dar feedback al user indicando qué alguna acción se está realizando."
   },
   {
+    "id": 14,
     "title": "SwiftUI: Link",
     "youtube_url": "https://youtu.be/caVeT9_6A50",
     "post_url": "https://www.swiftbeta.com/link-en-swiftui/",
@@ -97,6 +111,7 @@
     "description": "Aprende a usar Link en SwiftUI. Esta vista nos permite abrir URL directamente (es un tipo de Button muy específico)."
   },
   {
+    "id": 15,
     "title": "SwiftUI: Toggle",
     "youtube_url": "https://youtu.be/2qhd3p3aVGo",
     "post_url": "https://www.swiftbeta.com/toggle-en-swiftui/",
@@ -104,6 +119,7 @@
     "description": "Aprende a usar Toggle en SwiftUI. Es una vista muy simple que puede tener dos valores, encendido o apagado (Es un interruptor)."
   },
   {
+    "id": 16,
     "title": "SwiftUI: Stepper",
     "youtube_url": "https://youtu.be/RxlpUGa3aX0",
     "post_url": "https://www.swiftbeta.com/stepper-en-swiftui/",
@@ -111,6 +127,7 @@
     "description": "Aprende a usar Toggle en SwiftUI. Es una vista que nos permite incrementar o decrementar valores."
   },
   {
+    "id": 17,
     "title": "SwiftUI: Slider",
     "youtube_url": "https://youtu.be/ZNycSbbn3_o",
     "post_url": "https://www.swiftbeta.com/slider-en-swiftui/",
@@ -118,6 +135,7 @@
     "description": "Aprende a usar Slider en SwiftUI. Esta vista nos permite seleccionar un valor de entre un posible rando de valores. Podemos deslizarnos por la vista."
   },
   {
+    "id": 18,
     "title": "SwiftUI: LazyVGrid y LazyHGrid",
     "youtube_url": "https://youtu.be/yM2yFqAHHrI",
     "post_url": "https://www.swiftbeta.com/lazyvgrid-y-lazyhgrid-en-swiftui/",
@@ -125,6 +143,7 @@
     "description": "Aprende a usar LazyVGrid y LazyHGrid en SwiftUI. Crea Grids y estructura tus vistas en unos minutos con LazyVGrid o LazyHGrid."
   },
   {
+    "id": 19,
     "title": "SwiftUI: Form",
     "youtube_url": "https://youtu.be/Qlnav1IEuUo",
     "post_url": "https://www.swiftbeta.com/forms-en-swiftui/",
@@ -132,6 +151,7 @@
     "description": "Aprende a usar Form en SwiftUI. Podemos crear formularios y añadir todo tipo de vistas en SwiftUI."
   },
   {
+    "id": 20,
     "title": "SwiftUI: List",
     "youtube_url": "https://youtu.be/DpcubaF3maw",
     "post_url": "https://www.swiftbeta.com/list-en-swiftui/",
@@ -139,6 +159,7 @@
     "description": "Aprende a usar List en SwiftUI. ¿Tienes que mostrar un listado? Usa List y ForEach para tener un listado en segundos."
   },
   {
+    "id": 21,
     "title": "SwiftUI: NavigationView y NavigationLink",
     "youtube_url": "https://youtu.be/Dkx0Bi8pNeo",
     "post_url": "https://www.swiftbeta.com/navigationview-y-navigationlink-en-swiftui/",
@@ -146,6 +167,7 @@
     "description": "Aprende a usar NavigationView y NavigationLink en SwiftUI. Todas las apps tienen varias vistas, con NavigationView y NavigationLink podrás navegar a través de ellas."
   },
   {
+    "id": 22,
     "title": "SwiftUI: TabView",
     "youtube_url": "https://youtu.be/wd0byEC8YNA",
     "post_url": "https://www.swiftbeta.com/tabview-en-swiftui/",
@@ -153,6 +175,7 @@
     "description": "Aprende a usar NavigationView y NavigationLink en SwiftUI. Crea un menu en la parte inferior de la pantalla para poder navegar a las vistas más importantes de tu app."
   },
   {
+    "id": 23,
     "title": "SwiftUI: fullScreenCover & sheet",
     "youtube_url": "https://youtu.be/7PAcaQLARRY",
     "post_url": "https://www.swiftbeta.com/fullscreencover-y-sheet-en-swiftui/",
@@ -160,6 +183,7 @@
     "description": "Aprende a usar fullScreenCover y sheet en SwiftUI. Otra manera de navegar es usar fullScreenCover y sheet, puedes presenter pantallas de forma modal."
   },
   {
+    "id": 24,
     "title": "SwiftUI: Alert",
     "youtube_url": "https://youtu.be/xG9v4llPR3Y",
     "post_url": "https://www.swiftbeta.com/alert-en-swiftui/",
@@ -167,6 +191,7 @@
     "description": "Aprende a usar Alert en SwiftUI. Muy útil si quieres mostrar un mensaje importante a tus users. También puedes especificar distintos botones con distintas acciones."
   },
   {
+    "id": 25,
     "title": "SwiftUI: ActionSheet",
     "youtube_url": "https://youtu.be/HuL35J9jvNE",
     "post_url": "https://www.swiftbeta.com/actionsheet-en-swiftui/",
@@ -174,6 +199,7 @@
     "description": "Aprende a usar ActionSheet en SwiftUI. Vista que aparece en la parte inferior de la pantalla, puedes añadir tantas acciones como quieras."
   },
   {
+    "id": 26,
     "title": "SwiftUI: ContextMenu",
     "youtube_url": "https://youtu.be/3nuFfJJeFj4",
     "post_url": "https://www.swiftbeta.com/contextmenu-en-swiftui/",
@@ -181,6 +207,7 @@
     "description": "Aprende a usar ContextMenu en SwiftUI. Menu que aparece cuando mantienes pulsada una vista, puedes añadir varias acciones, y según la que el user pulse se realiza una u otra."
   },
   {
+    "id": 27,
     "title": "SwiftUI: TapGesture",
     "youtube_url": "https://youtu.be/LvN8yeCGIVo",
     "post_url": "https://www.swiftbeta.com/tapgesture-en-swiftui/",
@@ -188,6 +215,7 @@
     "description": "Aprende a usar TapGesture en SwiftUI. Añade gestos a tus apps, en este caso aprenderás a usar el Tap Gesture. Al tocar una vista puedes realizar la acción que quieras."
   },
   {
+    "id": 28,
     "title": "SwiftUI: DragGesture",
     "youtube_url": "https://youtu.be/t_Z3mO6S6hA",
     "post_url": "https://www.swiftbeta.com/draggesture-en-swiftui/",
@@ -195,6 +223,7 @@
     "description": "Aprende a usar DragGesture en SwiftUI. Añade gestos a tus apps, en este caso aprenderás a arrastrar a usar el Drag Gesture. Al arrastrar una vista verás como se mueve por la pantalla."
   },
   {
+    "id": 29,
     "title": "SwiftUI: @State vs @Binding",
     "youtube_url": "https://youtu.be/35DnewGxabc",
     "post_url": "https://www.swiftbeta.com/state-vs-binding-en-swiftui/",
@@ -202,6 +231,7 @@
     "description": "Aprende las diferencias en el property wrapper @State y el property wrappe @Binding en SwiftUI. Muy importante saber para qué sirven los property wrappers en SwiftUI."
   },
   {
+    "id": 30,
     "title": "SwiftUI: @ObservedObject vs @StateObject",
     "youtube_url": "https://youtu.be/cKft6XVf27I",
     "post_url": "https://www.swiftbeta.com/observedobject-y-stateobject-en-swiftui/",
@@ -209,6 +239,7 @@
     "description": "Aprende las diferencias en el property wrapper @State y el property wrappe @Binding en SwiftUI. Cada property wrapper tiene su función, es importante saber qué hace cada uno."
   },
   {
+    "id": 31,
     "title": "SwiftUI: @EnvironmentObject",
     "youtube_url": "https://youtu.be/IvRmBnJi1_s",
     "post_url": "https://www.swiftbeta.com/environtmentobject-en-swiftui/",
@@ -216,6 +247,7 @@
     "description": "Aprende el property wrapper @EnvironmentObject en SwiftUI. Con este property wrapper puedes pasar información de una vista a otra sin pasarla como parámetro."
   },
   {
+    "id": 32,
     "title": "SwiftUI: @AppStorage",
     "youtube_url": "https://youtu.be/-hXV-GSb-io",
     "post_url": "https://www.swiftbeta.com/appstorage-en-swiftui/",
@@ -223,6 +255,7 @@
     "description": "Aprende a usar @AppStorage en SwiftUI, lo usamos en nuestras apps para guardar datos y al volver abrir la app vuelvan a aparecer. Si no lo hacemos los datos están en memoria y se pierden."
   },
   {
+    "id": 33,
     "title": "SwiftUI: @SceneStorage",
     "youtube_url": "https://youtu.be/34-C_jwqV_0",
     "post_url": "https://www.swiftbeta.com/scenestorage-en-swiftui/",
@@ -230,6 +263,7 @@
     "description": "Aprende a usar @SceneStorage en SwiftUI. Es muy parecido al @AppStorage pero para guardar información de pantallas, muy útil si estás rellenando un formulario y cierras la app para seguir en otro momento."
   },
   {
+    "id": 34,
     "title": "SwiftUI: AsyncImage",
     "youtube_url": "https://youtu.be/KFZEZSk94wk",
     "post_url": "https://www.swiftbeta.com/asyncimage-en-swiftui/",
@@ -237,6 +271,7 @@
     "description": "Aprende a usar AsyncImage en SwiftUI a cargar imágenes de forma asíncrona."
   },
   {
+    "id": 35,
     "title": "SwiftUI: swipeActions y refreshable",
     "youtube_url": "https://youtu.be/gZ2IKHXkrFg",
     "post_url": "https://www.swiftbeta.com/swipeactions-y-refreshable-en-swiftui/",
@@ -244,6 +279,7 @@
     "description": "Aprende para qué sirve swipeActions y refreshable. Se utilizan en listas para tener acciones adicionales en las celdas"
   },
   {
+    "id": 36,
     "title": "SwiftUI: GeometryReader",
     "youtube_url": "https://youtu.be/PWO6vCOAdsU",
     "post_url": "https://www.swiftbeta.com/geometryreader-en-swiftui/",
@@ -251,6 +287,7 @@
     "description": "Aprende GeometryReader para poder crear animaciones en SwiftUI o adapter mejor las vistas a distintos tamaños."
   },
   {
+    "id": 37,
     "title": "SwiftUI: ViewModifier",
     "youtube_url": "https://youtu.be/CDBOXZ5eS-k",
     "post_url": "https://www.swiftbeta.com/viewmodifier-en-swiftui/",
@@ -258,6 +295,7 @@
     "description": "Aprende a crear tu propio ViewModifier en SwiftUI. Artículo y video muy interesante donde creamos nuestro propio modificador en SwiftUI."
   },
   {
+    "id": 38,
     "title": "SwiftUI: PreferenceKey",
     "youtube_url": "https://youtu.be/tcJ_kUS67YA",
     "post_url": "https://www.swiftbeta.com/preferencekey-en-swiftui/",
@@ -265,6 +303,7 @@
     "description": "Aprende a usar @PreferenceKey en SwiftUI. Ejemplo muy práctico de como funciona el modificador navigationTitle. Aprenderás a crear el tuyo propio."
   },
   {
+    "id": 39,
     "title": "SwiftUI: Arquitectura REDUX",
     "youtube_url": "https://youtu.be/h-yNWWnlyMM",
     "post_url": "https://www.swiftbeta.com/arquitectura-redux-en-swiftui/",
@@ -272,6 +311,7 @@
     "description": "Aprende a usar REDUX en SwiftUI, una arquitectura que encaja a la perfección. Al crear tus iOS apps es muy importante tener una buena arquitectura."
   },
   {
+    "id": 40,
     "title": "SwiftUI: Crea la APP CALCULADORA",
     "youtube_url": "https://youtu.be/oTyRk56WyAI",
     "post_url": "https://www.swiftbeta.com/app-calculadora-en-swiftui/",
